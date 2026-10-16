@@ -1,3 +1,9 @@
 # Development of Internet 
-## Introduction test
+## Context
+
+## Significance
+
+## Our Thesis Statement
+
+## Viewpoint
 
