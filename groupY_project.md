@@ -19,6 +19,8 @@ We now use the WWW everyday for school, research, gaming, shopping , messaging o
 
 
 ## Significance
+The significance of the Internet caannot be underestimated as, like stated before, it is used constantly in our everyday lives. The Internet enables all sorts of new businesses to operate as well as making jobs that exsisted before its creation more efficient and more accessible. If the Internet froze for even just an hour countless of jobs, apps and communication sources would come to a complete hault with some completely crashing, apps like WhatsApp, one of the leading communication apps in the world would stop working shutting down the immediate communication service it offers. It's safe to say the Internet is one of the most significant discoveries in recent times.
+
 
 ## Our Thesis Statement
 The development of the internet, from ARPANET to a global public service has transformed modern society by changing how people communicate, access information, education, social connections and daily life.
