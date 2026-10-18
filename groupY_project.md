@@ -2,11 +2,12 @@
 ## Context
 'How the world looked like before we had access to the internet'
 
-At first the internet was a 'secret' tool for scientists the ARPANET.
+At first the internet was a tool for scientists the ARPANET.
 In 1969 the US military created a tiny network of computers called ARPANET.
 At that time the computers were only used not publically as there were a closed experiment juat for the military and their sciencetists.
+
 They were huge bulky machines, they had no pictures/images or colours and only used green text on black screens.
-Users had to use binary (long lines of 0's and 1's) which took very long to write and to translate to normal human reading language.
+Users had to use difficult understanding languages which took very long to write and to translate to normal human reading language.
 
 Later in the 70s and 80s, different groups/organisations worked on building their own computing networks which were practically useless as they couldn't use them to talk to one another as they used different systems.
 In 1983 TCP/IP was introduced and it acted as a global translator for different networks to connect to eachother and safely share data; This is called the INTERNET.
