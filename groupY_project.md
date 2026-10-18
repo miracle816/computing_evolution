@@ -21,6 +21,16 @@ We now use the WWW everyday for school, research, gaming, shopping , messaging o
 ## Significance
 
 ## Our Thesis Statement
+The development of the internet, from ARPANET to a global public service has transformed modern society by changing how people communicate, access information, education, social connections and daily life.
+The Internet began in 1969 with APARNET, a system which was originally created for military and academic research. At first, it was difficult to use as people had to manually enter commands but overtime important developments such as easy-to-use browsers such as Worldwide Web (1990),the first user-friendly interface, NSCA Mosaic(1993), Internet Explorer(1995), ect.
+The internet eventually grew from a specialist research tool into a worldwide public service. Today, the internet has changed society in many ways allowing people to communicate globally instantly, access information and create online communities. Overall, the internet has developed largely from limited research system into a powerful global network used in everyday life.
+
+
+
+
+
+
+
 
 ## Viewpoint
 To fully understand the evolution of the Internet, we must examine it form two viewpoints, the engineering and sociatal, to observe how it has changed over the years and how it has influenced our lives. From engeneering viewpoint, we will study the complex system that constitutes the Internet, covering all its constituent elements and tracing its history, from the evolution of ARPANET to the Worl Wide Web, while also identifying the organizations and key figures who helped develop what we now call the Internet. Futhermore, it is important to mention the significant role that the routing processes has played, and continue to play, to this day. It coordinates Internet traffic through various protocols, such as TCP/IP or the OSI model, which we will discuss later. this element can be compared to a satellite navigation system guiding a driver, where the road network represents the collection of Internet networks. 
