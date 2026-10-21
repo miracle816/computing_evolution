@@ -4,7 +4,7 @@
 
 At first the internet was a tool for scientists the ARPANET.
 In 1969 the US military created a tiny network of computers called ARPANET.
-At that time the computers were only used not publically as there were a closed experiment juat for the military and their sciencetists.
+At that time, computers were only used not publically as there were a closed experiment juat for the military and their sciencetists.
 
 They were huge bulky machines, they had no pictures/images or colours and only used green text on black screens.
 Users had to use difficult understanding languages which took very long to write and to translate to normal human reading language.
@@ -15,7 +15,8 @@ In 1983 TCP/IP was introduced and it acted as a global translator for different 
 Unfortunately the Internet still had to be changed once more as it was still too difficult to use within the public for everyday use.
 In 1989 the WWW (World Wide Web) was created which includes our -web browsers, -adding pictures, -buttons and -graphics.
 
-We now use the WWW everyday for school, research, gaming, shopping , messaging one another etc.
+We now use the WWW everyday for school, research, gaming, shopping , messaging one another etc...
+
 
 
 
@@ -40,7 +41,29 @@ To fully understand the evolution of the Internet, we must examine it form two v
 
 Now from a societal viewpoint, we will look at the internet's profound effects on society. We will examine how digital networks have transformed human connection and cultural expression, for example the shift from physical bonding and local traditions to instant communication across the globe, and worldwide online communities. Furthermore, we will look at how the internet played a key role during global crises. One example being the COVID-19 pandemic, where we will look at how the network was used to maintain education and communication when the physical world shut down. Finally, we will provide an insight into the unwanted consequences of this digital era, such as societal overdependence on technology
 
-
 ## Historical Development
+
+## Timeline O.
+
+
+
+
+
+
+## Key Figures  F.
+
+
+
+
+
+
+## Major Milestones S.
+
+
+## First Viewpoint Analysis
+
+### Engineering viewpoint  
+
+The development of the Internet, from ARPANET to the World Wide Web, represents an engineering journey marked by a series of breakthroughs that have transformed the way computers communicate and the way human beings access information. In 1969, ARPA (Advanced Research Projects Agency) launched ARPANET, which became the precursor to today's Internet. The network introduced a fundamental engineering innovation: packet switching, which allowed data to be broken down into smaller units for transmission across a decentralized network. Packets were sent through intermediate nodes, called interface message processors (IMPs), which would store the packets and forward them to the next node along their path. 
 
 
