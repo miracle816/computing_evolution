@@ -42,21 +42,21 @@ To fully understand the evolution of the Internet, we must examine it form two v
 Now from a societal viewpoint, we will look at the internet's profound effects on society. We will examine how digital networks have transformed human connection and cultural expression, for example the shift from physical bonding and local traditions to instant communication across the globe, and worldwide online communities. Furthermore, we will look at how the internet played a key role during global crises. One example being the COVID-19 pandemic, where we will look at how the network was used to maintain education and communication when the physical world shut down. Finally, we will provide an insight into the unwanted consequences of this digital era, such as societal overdependence on technology
 
 
-## Timeline
+## Timeline O.
 
 
 
 
 
 
-## Key Figures
+## Key Figures  F.
 
 
 
 
 
 
-## Major Milestones
+## Major Milestones S.
 
 
 
