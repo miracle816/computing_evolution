@@ -41,7 +41,16 @@ To fully understand the evolution of the Internet, we must examine it form two v
 
 Now from a societal viewpoint, we will look at the internet's profound effects on society. We will examine how digital networks have transformed human connection and cultural expression, for example the shift from physical bonding and local traditions to instant communication across the globe, and worldwide online communities. Furthermore, we will look at how the internet played a key role during global crises. One example being the COVID-19 pandemic, where we will look at how the network was used to maintain education and communication when the physical world shut down. Finally, we will provide an insight into the unwanted consequences of this digital era, such as societal overdependence on technology
 
+
 ## Historical Development
+
+## First/Second viewpoint analysis (societal) 
+The Internet has had many profound effects on society. The first noticeable effect that the internet has had that we will look at is how the internet changed human connection and how culture is expressed with the use of the internet. Research by Li et al. (2022) states that the internet can redirect people's attention from their family and friends to online games, live streaming and other means of entertainment, this can lead to people ignoring real-life communication 
+
+Reference: 
+
+Li, C., Ning, G., Xia, Y., Guo, K. and Liu, Q. (2022) ‘Does the Internet Bring People Closer Together or Further Apart? The Impact of Internet Usage on Interpersonal Communications, Behavioral Sciences, 12(11), p. 425. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9687672/ [Accessed 21 October 2026]. 
+
 
 ## Timeline O.
 
