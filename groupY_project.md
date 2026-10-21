@@ -4,7 +4,7 @@
 
 At first the internet was a tool for scientists the ARPANET.
 In 1969 the US military created a tiny network of computers called ARPANET.
-At that time the computers were only used not publically as there were a closed experiment juat for the military and their sciencetists.
+At that time, computers were only used not publically as there were a closed experiment juat for the military and their sciencetists.
 
 They were huge bulky machines, they had no pictures/images or colours and only used green text on black screens.
 Users had to use difficult understanding languages which took very long to write and to translate to normal human reading language.
@@ -15,7 +15,8 @@ In 1983 TCP/IP was introduced and it acted as a global translator for different 
 Unfortunately the Internet still had to be changed once more as it was still too difficult to use within the public for everyday use.
 In 1989 the WWW (World Wide Web) was created which includes our -web browsers, -adding pictures, -buttons and -graphics.
 
-We now use the WWW everyday for school, research, gaming, shopping , messaging one another etc.
+We now use the WWW everyday for school, research, gaming, shopping , messaging one another etc...
+
 
 
 
