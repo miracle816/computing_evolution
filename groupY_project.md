@@ -67,6 +67,7 @@ Li, C., Ning, G., Xia, Y., Guo, K. and Liu, Q. (2022) ‘Does the Internet Bring
 
 
 ## Major Milestones S.
+The first few milestones are: The Launch of the Arpanet in the US 1969, the first email by Ray Tomlinson in 1971, TCP and IP addresses being desgined in 1974, TCP and IP addresses being adopted into the Arpanet in 1983 and the introduction of DNS {Domain Name System} in 1983
 
 
 ## First Viewpoint Analysis
