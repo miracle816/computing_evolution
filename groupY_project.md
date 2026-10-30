@@ -44,13 +44,6 @@ Now from a societal viewpoint, we will look at the internet's profound effects o
 
 ## Historical Development
 
-## First/Second viewpoint analysis (societal) 
-The Internet has had many profound effects on society. The first noticeable effect that the internet has had that we will look at is how the internet changed human connection and how culture is expressed with the use of the internet. Research by Li et al. (2022) states that the internet can redirect people's attention from their family and friends to online games, live streaming and other means of entertainment, this can lead to people ignoring real-life communication 
-
-Reference: 
-
-Li, C., Ning, G., Xia, Y., Guo, K. and Liu, Q. (2022) ‘Does the Internet Bring People Closer Together or Further Apart? The Impact of Internet Usage on Interpersonal Communications, Behavioral Sciences, 12(11), p. 425. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9687672/ [Accessed 21 October 2026]. 
-
 
 ## Timeline O.
 
@@ -75,5 +68,14 @@ The first few milestones are: The Launch of the Arpanet in the US 1969, the firs
 ### Engineering viewpoint  
 
 The development of the Internet, from ARPANET to the World Wide Web, represents an engineering journey marked by a series of breakthroughs that have transformed the way computers communicate and the way human beings access information. In 1969, ARPA (Advanced Research Projects Agency) launched ARPANET, which became the precursor to today's Internet. The network introduced a fundamental engineering innovation: packet switching, which allowed data to be broken down into smaller units for transmission across a decentralized network. Packets were sent through intermediate nodes, called interface message processors (IMPs), which would store the packets and forward them to the next node along their path. 
+
+
+## Second viewpoint analysis (societal) 
+The Internet has had many profound effects on society. The first noticeable effect that the internet has had that we will look at is how the internet changed human connection and how culture is expressed with the use of the internet. Research by Li et al. (2022) states that the internet can redirect people's attention from their family and friends to online games, live streaming and other means of entertainment, this can lead to people ignoring real-life communication 
+
+Reference: 
+
+Li, C., Ning, G., Xia, Y., Guo, K. and Liu, Q. (2022) ‘Does the Internet Bring People Closer Together or Further Apart? The Impact of Internet Usage on Interpersonal Communications, Behavioral Sciences, 12(11), p. 425. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9687672/ [Accessed 21 October 2026]. 
+
 
 
