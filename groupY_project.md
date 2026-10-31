@@ -46,11 +46,62 @@ Now from a societal viewpoint, we will look at the internet's profound effects o
 
 
 ## Timeline O.
+The development of the internet has been a long process to many key and important discoveries and inventions.
+Heres a timeline of major milestones, some important people and developments that helped transforming internet to what we use today.
 
+1960s-1980s; Military Research to a connected network
+-1969; ARPANET was lanuched
+The US Advanced Research Projects Agency (ARPA), launched ARPANET as an experimental computer network connecting between research insitutions. The first connection was establised between the Stanford Research Institute and UCLA. ARPANET became an important predecessor of our modern internet.
 
+-1971; First Network Email
+Ray Tomlinson (computer engineer) sent the first email between computers on ARPANET. He also introduced the '@' symbol.
 
+-1974; Introduced TCP
+Vinton Cerf and Robert Kahn published a proposal for TCP (Transmission Control Protocol), It creates foundations for different computer networks to communicate with eachother.
 
+-1983; TCP/IP Becomes Standard
+Tcp/IP gets adopted by ARPANET on January 1st 1983.
+It allows different networks to communicate using a common set of protocols. (One Of The Most Important Milestones In The Development Of The Modern Internet).
 
+1983-1984; DNS (Domain Name System) is Developed
+DNS was developed by Paul Mockapetris. DNS allowed poeple to use recogniseable domain names and not long numerical IP Addresses.
+DNS was implemented in 1984.
+
+-1989 WWW|(World Wide Web) is Proposed
+Tim Berners-Lee while working at CERN, proposed the WWW to make information easier to share and access through linked documents.
+
+1990s; The Internet becomes more accessible to a wider range of people
+-1991; First website goes online
+Tim Berners-Lee makes the first webiste public accessible. 
+He explains how people can create their own.
+
+-1993; Mosaic Web Browser is Released
+The NCSA (National Center for Supercomputing Applications) released Mosaic. It became of of the first widely popular graphical web browsers, Easier usage, navigation for texts and images.
+
+-1995; Internet Explorer is Introduced
+Microsoft introduced Internet Explorer to help web browsing be more personal to computer users. Internet becomes increasingly commercial for businesses to establish their online presence.
+
+-1998; Google was Founded
+Larry Page and Sergey Brin established Google.
+Search engines made it easier for people to find information across the WWW.
+
+2000s; Present. Internet Used Everyday.
+-2004; Facebook was Launched
+People started Connecting, Communicating and sharing photographs and information online.
+
+-2007; The Iphone was introduced
+Apple introduced the first iphone. Very handy to communicate while away from computers.
+
+-2009; WhatsApp was Launched
+Internet based messaging and communication became for accessible.
+People exchanged messages,photographs and other info across the world.
+
+-2020; COVID-19 Demonstrated the importance of the Internet
+During the COVID-19 Pandemic, businesses, schools, organisations and ordinary people relied heavily on the Internet.
+Online learning, Video Calls, Digital communication to help stay in connection during the pandemic lockdown.
+
+-2026;
+The Internet helps and supports healthcare, education, entertainment and communication.
 
 ## Key Figures  F.
 
