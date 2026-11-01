@@ -121,12 +121,14 @@ The first few milestones are: The Launch of the Arpanet in the US 1969, the firs
 The development of the Internet, from ARPANET to the World Wide Web, represents an engineering journey marked by a series of breakthroughs that have transformed the way computers communicate and the way human beings access information. In 1969, ARPA (Advanced Research Projects Agency) launched ARPANET, which became the precursor to today's Internet. The network introduced a fundamental engineering innovation: packet switching, which allowed data to be broken down into smaller units for transmission across a decentralized network. Packets were sent through intermediate nodes, called interface message processors (IMPs), which would store the packets and forward them to the next node along their path. 
 
 
-## Second viewpoint analysis (societal) 
-The Internet has had many profound effects on society. The first noticeable effect that the internet has had that we will look at is how the internet changed human connection and how culture is expressed with the use of the internet. Research by Li et al. (2022) states that the internet can redirect people's attention from their family and friends to online games, live streaming and other means of entertainment, this can lead to people ignoring real-life communication 
+## Second Viewpoint Analysis
 
-Reference: 
+## Societal viewpoint
 
-Li, C., Ning, G., Xia, Y., Guo, K. and Liu, Q. (2022) ‘Does the Internet Bring People Closer Together or Further Apart? The Impact of Internet Usage on Interpersonal Communications, Behavioral Sciences, 12(11), p. 425. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9687672/ [Accessed 21 October 2026]. 
+The Internet has completely changed human connection and culture. Instead of only communicating locally, people now interact instantly within online communities across the globe. This has transformed how culture is shared and expressed. This shift has significant downsides. As the internet developed, more people got caught up in digital spaces to the point where they ignore the people who are physically around them. This can lead to isolation. The internet has also played an important role during the COVID-19 pandemic, which is also what boosted the rate at which the internet was used for communication, education, and work because of the need for social distance. This also created a reliance as an unwanted consequence, that being a severe overdependence on technology. Finding a balance between the benefits of digital connectivity and the risk of losing real world interaction is now a new challenge that came with the internet in modern society (Li et al., 2022).
 
+## References
 
+### Societal viewpoint - references
+Chao Li, Guangjie Ning, Yuxin Xia, Kaiyi Guo, Qianqian Liu(2022) 'Does the Internet Bring People Closer Together or Further Apart? The Impact of Internet Usage on Interpersonal Communications', Behavioral Sciences, 12(11), p. 425. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9687672/ (Accessed 1 November 2026).
 
