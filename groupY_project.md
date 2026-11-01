@@ -111,7 +111,7 @@ The Internet helps and supports healthcare, education, entertainment and communi
 
 
 ## Major Milestones S.
-The first few milestones are: The Launch of the Arpanet in the US 1969, the first email by Ray Tomlinson in 1971, TCP and IP addresses being desgined in 1974, TCP and IP addresses being adopted into the Arpanet in 1983 and the introduction of DNS {Domain Name System} in 1983
+The first few milestones are: The Launch of the Arpanet in the US 1969, the first email by Ray Tomlinson in 1971, TCP and IP addresses being desgined in 1974, TCP and IP addresses being adopted into the Arpanet in 1983 and the introduction of DNS {Domain Name System} in 1983 in 1983 which made IP addresses which are noted down as numbers into a simplier form like .com, .org, .ie ect. In 1989 Tim Berners-Lee proposed the creation of the World Wide Web(www), creating HTML, HTTP and URLs to like documents worldwide. 1991 was when CERN, (the company Berners-Lee worked at) launched the World Wide Web to the public and alongside it Internet Service Providers began to emerge. In 1993 Mosaic Browser was released allowing for visuals like images and pictures to be on browsers. In 1995 U.S funding ended allowing for a transition to commercial driven networks. In 1998 Google was founded by Larry Page and Sergey Brin changing hoe users search things and how content was indexed.
 
 
 ## First Viewpoint Analysis
