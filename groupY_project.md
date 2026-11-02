@@ -104,7 +104,8 @@ Online learning, Video Calls, Digital communication to help stay in connection d
 The Internet helps and supports healthcare, education, entertainment and communication.
 
 ## Key Figures  F.
-
+When looking at how the internet became what it is today, a few key people really stand out. Vint Cerf and Bob Kahn are basically the fathers of the internet because they came up with TCP and IP, which are the main systems that let computers actually talk to each other. Then you've got Tim Berners-Lee, who invented the World Wide Web, making websites and links a thing.
+Way back in 1971, Ray Tomlinson created email and was the genius behind using the @ symbol in addresses. Later on, Marc Andreessen helped build Mosaic, which was one of the very first web browsers that people actually used. All of their work combined completely changed how we communicate, learn, and share stuff today.
 
 
 
