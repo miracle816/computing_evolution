@@ -104,10 +104,25 @@ Online learning, Video Calls, Digital communication to help stay in connection d
 The Internet helps and supports healthcare, education, entertainment and communication.
 
 ## Key Figures  F.
-When looking at how the internet became what it is today, a few key people really stand out. Vint Cerf and Bob Kahn are basically the fathers of the internet because they came up with TCP and IP, which are the main systems that let computers actually talk to each other. Then you've got Tim Berners-Lee, who invented the World Wide Web, making websites and links a thing.
-Way back in 1971, Ray Tomlinson created email and was the genius behind using the @ symbol in addresses. Later on, Marc Andreessen helped build Mosaic, which was one of the very first web browsers that people actually used. All of their work combined completely changed how we communicate, learn, and share stuff today.
+The development of the internet was built upon numerous engineers, scientists and organisations over the decades. Each played an important role in developing the technologies and systems that helped transform early computer networks into the global internet we use today.
+1. J.C.R Licklider (1915-1990)
+Joseph Carl Robnett Licklider was an american psychologist and computer scientists who played an important role in developing the early ideas of the internet. In 1962, Licklider introduced his idea of the "Galactic Network", where he suggested the idea of developing a place where computers in different locations could be connected, allowing people to access information and communicate with each other from long distances. He also worked at the Advanced Research Projects agency (ARPA), where he encouraged other researchers to develop computer networking technology. His idea helped inspire the devlopment of ARPANET, Which becae an important foundation for the modern internet.
 
+2. Vint Cerf (1943)
+Vint Cerf is an American computer scientist who is widely known as one of the fathers of the internet. Cerf worked closely with another well known computer engineer Robert khan during the 1970s to develop the TCP/IP (Transmission Control Protocol/Internet Protocol). They designed a system that allowed different computer networks to exchange data. TCP/IP was adapted as the standard communication protocol for ARPANET during the 1980s. This helped making the foundation for the global internet.
 
+3. Robert Elliot Kahn (1938)
+Robert Kahn is an American computer engineer and scientist who also played a major role in developing the technology that allows different networks to be able to communicate with each other. Kahn worked on ARPANET and found the idea that different computer networks needed a common system to exchange information. As previously mentioned earlier, he worked with Vint Cerf in the development of the TCP/IP.
+
+4. Tim Berners-Lee (1955)
+Tim Berners-Lee is a Brittish computer scientist who is well known for inventing the World Wide Web. He worked at CERN, the European Organisation for Nuclear Research, in Switzerland. In 1983, he proposed the idea of a way for scientists to share information through linked documents. He devloped three important technolgoies.
+- HTML (Hypertext Markup Language): The language used to create web pages
+- HTTP (Hypertext Transfer Protocol): The system that allows web browsers and servers to communicate
+- URL (Uniform Resource Locator): The address used to locate information and websites online
+Berners-Lee also created the first ever web browser and web server in 1991.
+
+5.Leonard Kleinrock (1934)
+Leonard Kleinrock is an American Computer scientist who contributed to the technology that's allows computers to communicate over networks. Kleinrock did research into packet switching which is a method of sending information by breaking it into smaller pieces called packets. These packets then travel across a network and are put back together when they reach their final destination. In 1969, Kleinrock's research team at the University of California, Los Angeles (UCLA), helped send the first message over ARPANET to another computer at Stanford Research Institute. The team sent the word "LOGIN", but unfortunately the system crashed and only transmitted the two letters "LO".
 
 
 
