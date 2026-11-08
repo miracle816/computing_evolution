@@ -1,6 +1,8 @@
 # Development of Internet 
 ## Context
+
 'How the world looked like before we had access to the internet'
+
 
 At first the internet was a tool for scientists the ARPANET.
 In 1969 the US military created a tiny network of computers called ARPANET.
