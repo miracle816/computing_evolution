@@ -147,6 +147,29 @@ The development of the Internet, from ARPANET to the World Wide Web, represents 
 
 The Internet has completely changed human connection and culture. Instead of only communicating locally, people now interact instantly within online communities across the globe. This has transformed how culture is shared and expressed. This shift has significant downsides. As the internet developed, more people got caught up in digital spaces to the point where they ignore the people who are physically around them. This can lead to isolation. The internet has also played an important role during the COVID-19 pandemic, which is also what boosted the rate at which the internet was used for communication, education, and work because of the need for social distance. This also created a reliance as an unwanted consequence, that being a severe overdependence on technology. Finding a balance between the benefits of digital connectivity and the risk of losing real world interaction is now a new challenge that came with the internet in modern society (Li et al., 2022).
 
+
+
+
+
+
+#Ethical Reflection and Improvements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Conclusion
+
+
 ## References
 
 ### Societal viewpoint - references
