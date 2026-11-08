@@ -98,6 +98,30 @@ Online learning, Video Calls, Digital communication to help stay in connection d
 The Internet helps and supports healthcare, education, entertainment and communication.
 
 ## Key Figures  F.
+The development of the internet was built upon numerous engineers, scientists and organisations over the decades. Each played an important role in developing the technologies and systems that helped transform early computer networks into the global internet we use today.
+1. J.C.R Licklider (1915-1990)
+Joseph Carl Robnett Licklider was an american psychologist and computer scientists who played an important role in developing the early ideas of the internet. In 1962, Licklider introduced his idea of the "Galactic Network", where he suggested the idea of developing a place where computers in different locations could be connected, allowing people to access information and communicate with each other from long distances. He also worked at the Advanced Research Projects agency (ARPA), where he encouraged other researchers to develop computer networking technology. His idea helped inspire the devlopment of ARPANET, Which becae an important foundation for the modern internet.
+
+2. Vint Cerf (1943)
+Vint Cerf is an American computer scientist who is widely known as one of the fathers of the internet. Cerf worked closely with another well known computer engineer Robert khan during the 1970s to develop the TCP/IP (Transmission Control Protocol/Internet Protocol). They designed a system that allowed different computer networks to exchange data. TCP/IP was adapted as the standard communication protocol for ARPANET during the 1980s. This helped making the foundation for the global internet.
+
+3. Robert Elliot Kahn (1938)
+Robert Kahn is an American computer engineer and scientist who also played a major role in developing the technology that allows different networks to be able to communicate with each other. Kahn worked on ARPANET and found the idea that different computer networks needed a common system to exchange information. As previously mentioned earlier, he worked with Vint Cerf in the development of the TCP/IP.
+
+4. Tim Berners-Lee (1955)
+Tim Berners-Lee is a Brittish computer scientist who is well known for inventing the World Wide Web. He worked at CERN, the European Organisation for Nuclear Research, in Switzerland. In 1983, he proposed the idea of a way for scientists to share information through linked documents. He devloped three important technolgoies.
+HTML (Hypertext Markup Language): The language used to create web pages
+- HTTP (Hypertext Transfer Protocol): The system that allows web browsers and servers to communicate
+- URL (Uniform Resource Locator): The address used to locate information and websites online
+Berners-Lee also created the first ever web browser and web server in 1991.
+
+5.Leonard Kleinrock (1934)
+Leonard Kleinrock is an American Computer scientist who contributed to the technology that's allows computers to communicate over networks. Kleinrock did research into packet switching which is a method of sending information by breaking it into smaller pieces called packets. These packets then travel across a network and are put back together when they reach their final destination. In 1969, Kleinrock's research team at the University of California, Los Angeles (UCLA), helped send the first message over ARPANET to another computer at Stanford Research Institute. The team sent the word "LOGIN", but unfortunately the system crashed and only transmitted the two letters "LO".
+
+
+
+## Major Milestones S.
+The first few milestones are: The Launch of the Arpanet in the US 1969, the first email by Ray Tomlinson in 1971, TCP and IP addresses being desgined in 1974, TCP and IP addresses being adopted into the Arpanet in 1983 and the introduction of DNS {Domain Name System} in 1983 in 1983 which made IP addresses which are noted down as numbers into a simplier form like .com, .org, .ie ect. In 1989 Tim Berners-Lee proposed the creation of the World Wide Web(www), creating HTML, HTTP and URLs to like documents worldwide. 1991 was when CERN, (the company Berners-Lee worked at) launched the World Wide Web to the public and alongside it Internet Service Providers began to emerge. In 1993 Mosaic Browser was released allowing for visuals like images and pictures to be on browsers. In 1995 U.S funding ended allowing for a transition to commercial driven networks. In 1998 Google was founded by Larry Page and Sergey Brin changing hoe users search things and how content was indexed.
 
 
 ## First Viewpoint Analysis
@@ -115,13 +139,10 @@ The development of the Internet, from ARPANET to the World Wide Web, represents 
 
 ## Societal viewpoint
 
-<<<<<<< HEAD
 The Internet has completely changed human connection and culture. Instead of only communicating locally, people now interact instantly within online communities across the globe. This has transformed how culture is shared and expressed. This shift has significant downsides. As the internet developed, more people got caught up in digital spaces to the point where they ignore the people who are physically around them. This can lead to isolation. The internet has also played an important role during the COVID-19 pandemic, which is also what boosted the rate at which the internet was used for communication, education, and work because of the need for social distance. This also created a reliance as an unwanted consequence, that being a severe overdependence on technology. Finding a balance between the benefits of digital connectivity and the risk of losing real world interaction is now a new challenge that came with the internet in modern society (Li et al., 2022).
 
 Another major shift in society caused by the internet is how culture created and shared. Before the internet cultural trends were mostly dictated by local communities or large media companies. Today platforms like youtube tiktok etc, allow anybody to share their art and ideas music globally. While this has made culture more accessible it has also created online communities where only people with the exact same views socialise
-=======
 Li, C., Ning, G., Xia, Y., Guo, K. and Liu, Q. (2022) Does the Internet Bring People Closer Together or Further Apart? The Impact of Internet Usage on Interpersonal Communications, Behavioral Sciences, 12(11), p. 425. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9687672/ [Accessed 21 October 2026]. 
->>>>>>> e6abedc (Add initial Markdown file)
 
 
 
