@@ -3,21 +3,22 @@
 
 'How the world looked like before we had access to the internet'
 
-
 At first the internet was a tool for scientists the ARPANET.
-In 1969 the US military created a tiny network of computers called ARPANET.
-At that time, computers were only used not publically as there were a closed experiment juat for the military and their sciencetists.
+In 1969 the US military created  a small network of computers called ARPANET.
+At that time, computers were only used not publically as they were a closed experiment just for the military and their sciencetists.
 
 They were huge bulky machines, they had no pictures/images or colours and only used green text on black screens.
 Users had to use difficult understanding languages which took very long to write and to translate to normal human reading language.
 
-Later in the 70s and 80s, different groups/organisations worked on building their own computing networks which were practically useless as they couldn't use them to talk to one another as they used different systems.
-In 1983 TCP/IP was introduced and it acted as a global translator for different networks to connect to eachother and safely share data; This is called the INTERNET.
+Later in the 70s and 80s, different groups/organisations worked on building their own computing networks which were practically useless,
+as they couldn't use them to talk to one another as they used different systems.
+In 1983 TCP/IP was introduced and it acted as a global translator for different networks,
+to connect to eachother and safely share data; This is called the INTERNET.
 
 Unfortunately the Internet still had to be changed once more as it was still too difficult to use within the public for everyday use.
-In 1989 the WWW (World Wide Web) was created which includes our -web browsers, -adding pictures, -buttons and -graphics.
+In 1989 the WWW (World Wide Web) was created which includes our web browsers, adding pictures, buttons and graphics.
 
-We now use the WWW everyday for school, research, gaming, shopping , messaging one another etc..
+We now use the WWW everyday for school, research, gaming, shopping , messaging one another etc.
 
 
 ## Significance
@@ -45,20 +46,25 @@ Heres a timeline of major milestones, some important people and developments tha
 
 1960s-1980s; Military Research to a connected network
 -1969; ARPANET was lanuched
-The US Advanced Research Projects Agency (ARPA), launched ARPANET as an experimental computer network connecting between research insitutions. The first connection was establised between the Stanford Research Institute and UCLA. ARPANET became an important predecessor of our modern internet.
+The US Advanced Research Projects Agency (ARPA), launched ARPANET as an experimental computer network connecting between research insitutions. 
+The first connection was establised between the Stanford Research Institute and UCLA. ARPANET became an important predecessor of our modern internet.
 
 -1971; First Network Email
-Ray Tomlinson (computer engineer) sent the first email between computers on ARPANET. He also introduced the '@' symbol.
+Ray Tomlinson (computer engineer) sent the first email between computers on ARPANET. 
+He also introduced the '@' symbol.
 
 -1974; Introduced TCP
-Vinton Cerf and Robert Kahn published a proposal for TCP (Transmission Control Protocol), It creates foundations for different computer networks to communicate with eachother.
+Vinton Cerf and Robert Kahn published a proposal for TCP (Transmission Control Protocol), 
+It creates foundations for different computer networks to communicate with eachother.
 
 -1983; TCP/IP Becomes Standard
 Tcp/IP gets adopted by ARPANET on January 1st 1983.
-It allows different networks to communicate using a common set of protocols. (One Of The Most Important Milestones In The Development Of The Modern Internet).
+It allows different networks to communicate using a common set of protocols. 
+(One Of The Most Important Milestones In The Development Of The Modern Internet).
 
 1983-1984; DNS (Domain Name System) is Developed
-DNS was developed by Paul Mockapetris. DNS allowed poeple to use recogniseable domain names and not long numerical IP Addresses.
+DNS was developed by Paul Mockapetris. 
+DNS allowed poeple to use recogniseable domain names and not long numerical IP Addresses.
 DNS was implemented in 1984.
 
 -1989 WWW|(World Wide Web) is Proposed
@@ -70,10 +76,12 @@ Tim Berners-Lee makes the first webiste public accessible.
 He explains how people can create their own.
 
 -1993; Mosaic Web Browser is Released
-The NCSA (National Center for Supercomputing Applications) released Mosaic. It became of of the first widely popular graphical web browsers, Easier usage, navigation for texts and images.
+The NCSA (National Center for Supercomputing Applications) released Mosaic. 
+It became of of the first widely popular graphical web browsers, Easier usage, navigation for texts and images.
 
 -1995; Internet Explorer is Introduced
-Microsoft introduced Internet Explorer to help web browsing be more personal to computer users. Internet becomes increasingly commercial for businesses to establish their online presence.
+Microsoft introduced Internet Explorer to help web browsing be more personal to computer users. 
+Internet becomes increasingly commercial for businesses to establish their online presence.
 
 -1998; Google was Founded
 Larry Page and Sergey Brin established Google.
