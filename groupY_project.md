@@ -15,7 +15,7 @@ Later in the 70s and 80s, different groups/organisations worked on building thei
 In 1983 TCP/IP was introduced and it acted as a global translator for different networks to connect to eachother and safely share data; This is called the INTERNET.
 
 Unfortunately the Internet still had to be changed once more as it was still too difficult to use within the public for everyday use.
-In 1989 the WWW (World Wide Web) was created which includes our -web browsers, -adding pictures, -buttons and -graphics.
+In 1989 the WWW (World Wide Web) was created which includes our web browsers, adding pictures, buttons and graphics.
 
 We now use the WWW everyday for school, research, gaming, shopping , messaging one another etc..
 
