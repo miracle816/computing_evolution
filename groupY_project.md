@@ -129,7 +129,7 @@ Leonard Kleinrock is an American Computer scientist who contributed to the techn
 
 
 ## Major Milestones S.
-The first few milestones are: The Launch of the Arpanet in the US 1969, the first email by Ray Tomlinson in 1971, TCP and IP addresses being desgined in 1974, TCP and IP addresses being adopted into the Arpanet in 1983 and the introduction of DNS {Domain Name System} in 1983 in 1983 which made IP addresses which are noted down as numbers into a simplier form like .com, .org, .ie ect. In 1989 Tim Berners-Lee proposed the creation of the World Wide Web(www), creating HTML, HTTP and URLs to like documents worldwide. 1991 was when CERN, (the company Berners-Lee worked at) launched the World Wide Web to the public and alongside it Internet Service Providers began to emerge. In 1993 Mosaic Browser was released allowing for visuals like images and pictures to be on browsers. In 1995 U.S funding ended allowing for a transition to commercial driven networks. In 1998 Google was founded by Larry Page and Sergey Brin changing hoe users search things and how content was indexed. In 2004 and 2005 the development and release of websites like facebook and youtube gave birth to a rise in user driven content giving the Internet a "community" type of feeling. When Apple released the iphone in 2007 with internet access it drastically increased the amount of people who had access to the internet from being mostly stationary to now mobile. In 2009 4g would be rolledn out allowing for an increase in download speed from cell towers.
+ In 1993 Mosaic Browser was released allowing for visuals like images and pictures to be on browsers. In 1995 U.S funding ended allowing for a transition to commercial driven networks. In 1998 Google was founded by Larry Page and Sergey Brin changing hoe users search things and how content was indexed. In 2004 and 2005 the development and release of websites like facebook and youtube gave birth to a rise in user driven content giving the Internet a "community" type of feeling. When Apple released the iphone in 2007 with internet access it drastically increased the amount of people who had access to the internet from being mostly stationary to now mobile. In 2009 4g would be rolledn out allowing for an increase in download speed from cell towers.
 
 (1969)
 ARPA(Advancements Research Projects Agency)was given the green light in the development of the Apernet, a system that aimed to link different individual computers to each other. The project was directed by Robert Taylor and managed by Lawrence Roberts. It was within this year that Interface Message Proccesors(IMPS) where built to connect individual PCs together.
@@ -137,7 +137,21 @@ ARPA(Advancements Research Projects Agency)was given the green light in the deve
 (1971)
 The first ever email was sent by Ray Tomlinson who had a hand in the development of the Apernet specifically in the communication side as by combining CPYNET(short for copy network) and SNDMSG (short for send message) and READMAIL to create a program that allowed PCs to send messages to each other which is now known as an email. The email itself was didn't have anything meaningful behind it according to Tomlinson stating it was "something like QWERTYUIOP."
 
-(19)
+(1974)
+Computer scientists Bobby Kahn and Vincent Cerf created TCP/IP (transmission-control protocol) which allowed for computing systems to speak the same language.
+
+(1983)
+This is when the Aprnet incorparated TCP/IP into its system  allowing it to feel and become more interconnected. In the same year Paul Mockapetris introducted DNS {Domain Name System} which made IP addresses which are noted down as numbers into a simplier form like .com, .org, .ie ect.
+
+(1989)
+Tim Berners-Lee created the World Wide Web(www) while working in CERN , creating HTML, HTTP and URLs to like documents worldwide arguing it would help scientists communicate and share documents faster.
+
+(1990)
+The Apranet was decommissioned as it was found as absolete as newer networks like NSFNET ( National Science Foundation).
+
+(1991)
+CERN launched the World Wide Web to the world in two versions, the original created for NeXT machines which was more powerful than the latter, the "line mode" browser which was easy to install but sacrificed power for a more user friendly experience. As well as this internet service providers began to arise.
+
 ## First Viewpoint Analysis
 
 ### Engineering viewpoint  
