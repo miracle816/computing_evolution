@@ -81,11 +81,11 @@ It became of of the first widely popular graphical web browsers, Easier usage, n
 
 -1995; Internet Explorer is Introduced
 Microsoft introduced Internet Explorer to help web browsing be more personal to computer users. 
-Internet becomes increasingly commercial for businesses to establish their online presence.
+Internet becomes increasingly commercial for businesses to establish their presence online.
 
 -1998; Google was Founded
 Larry Page and Sergey Brin established Google.
-Search engines made it easier for people to find information across the WWW.
+Search engines made it easier for people to find information across the World Wide Web.
 
 2000s; Present. Internet Used Everyday.
 -2004; Facebook was Launched
