@@ -129,7 +129,7 @@ Leonard Kleinrock is an American Computer scientist who contributed to the techn
 
 
 ## Major Milestones S.
- In 1993 Mosaic Browser was released allowing for visuals like images and pictures to be on browsers. In 1995 U.S funding ended allowing for a transition to commercial driven networks. In 1998 Google was founded by Larry Page and Sergey Brin changing hoe users search things and how content was indexed. In 2004 and 2005 the development and release of websites like facebook and youtube gave birth to a rise in user driven content giving the Internet a "community" type of feeling. When Apple released the iphone in 2007 with internet access it drastically increased the amount of people who had access to the internet from being mostly stationary to now mobile. In 2009 4g would be rolledn out allowing for an increase in download speed from cell towers.
+ In 2009 4g would be rolledn out allowing for an increase in download speed from cell towers.
 
 (1969)
 ARPA(Advancements Research Projects Agency)was given the green light in the development of the Apernet, a system that aimed to link different individual computers to each other. The project was directed by Robert Taylor and managed by Lawrence Roberts. It was within this year that Interface Message Proccesors(IMPS) where built to connect individual PCs together.
@@ -151,6 +151,25 @@ The Apranet was decommissioned as it was found as absolete as newer networks lik
 
 (1991)
 CERN launched the World Wide Web to the world in two versions, the original created for NeXT machines which was more powerful than the latter, the "line mode" browser which was easy to install but sacrificed power for a more user friendly experience. As well as this internet service providers began to arise.
+
+(1993)
+Marc Andreessen and Eric Bina would create the Mosaic Browser which would allow for visuals like images and pictures to be uploaded in color receiving over 40,000 user downloads on its release on November.
+
+(1995)
+The US ended it direct funding of the Internet allowing for the opportunity for commercial backers and networks to emerge.
+
+(1998)
+ Google was founded by Larry Page and Sergey Brin changing hoe users search things and how content was indexed.
+
+ (2004-2005) 
+ The development and release of websites like facebook and youtube gave birth to a rise in user driven content giving the Internet a "community" type of feeling.
+
+(2007)
+When Apple released the iphone with internet access it drastically increased the amount of people who had access to the internet from being mostly stationary to now mobile.
+
+(2009)
+4g would be rolled out allowing for an increase in download speed from cell towers.
+
 
 ## First Viewpoint Analysis
 
