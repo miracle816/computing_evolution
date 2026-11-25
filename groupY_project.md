@@ -220,6 +220,14 @@ The internet has transformed from ARPANET to a global tool used by everyone acro
 
 ## References
 
+### Engineering viewpoint -references
+TU Delft (2021) Engineering the evolution of the internet. Available at: https://www.tudelft.nl/en/stories/articles/engineering-the-evolution-of-the-internet (Accessed: 30 October 2026 ).
+Lenovo (2026) What is advanced research projects agency network (ARPANET)?. Available at: https://www.lenovo.com/ie/en/glossary/arpanet/ (Accessed: 7 November 2026). 
+Wikimedia (2026) ALOHAnet. Available at: https://en.wikipedia.org/wiki/ALOHAnet (Accessed 14 November 2026). 
+Wikimedia (2026) History of the internet. Available at: https://en.wikipedia.org/wiki/History_of_the_Internet (Accessed 22 November 2026). 
+Wikimedia (2026) World Wide Web. Available at: https://en.wikipedia.org/wiki/World_Wide_Web (Accessed 22 November 2026).
+
+
 ### Societal viewpoint - references
 Chao Li, Guangjie Ning, Yuxin Xia, Kaiyi Guo, Qianqian Liu(2022) 'Does the Internet Bring People Closer Together or Further Apart? The Impact of Internet Usage on Interpersonal Communications', Behavioral Sciences, 12(11), p. 425. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9687672/ (Accessed 1 November 2026).
 
