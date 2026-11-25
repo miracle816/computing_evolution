@@ -196,7 +196,7 @@ Another major shift in society caused by the internet is how culture created and
 ## Ethical Reflection and Improvements
 
 
-
+Accessibility: 
 
 
 
