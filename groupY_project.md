@@ -216,8 +216,10 @@ The internet has transformed from ARPANET to a global tool used by everyone acro
 
 ### Engineering viewpoint -references
 TU Delft (2021) Engineering the evolution of the internet. Available at: https://www.tudelft.nl/en/stories/articles/engineering-the-evolution-of-the-internet (Accessed: 30 October 2026 ).
-Lenovo (2026) What is advanced research projects agency network (ARPANET)?. Available at: https://www.lenovo.com/ie/en/glossary/arpanet/ (Accessed: 7 November 2026). 
-Wikimedia (2026) ALOHAnet. Available at: https://en.wikipedia.org/wiki/ALOHAnet (Accessed 14 November 2026). 
+Lenovo (2026) What is advanced research projects agency network (ARPANET)?. Available at: https://www.lenovo.com/ie/en/glossary/arpanet/ (Accessed 7 November 2026). 
+Wikimedia (2026) ALOHAnet. Available at: https://en.wikipedia.org/wiki/ALOHAnet (Accessed 14 November 2026).
+Wikimedia Foundation (no date) Internet Protocol. Available at: https://en.wikipedia.org/wiki/Internet_Protocol (Accessed 17 November 2026).
+Wikimedia Foundation (no date) Transmission Control Protocol. Available at: https://en.wikipedia.org/wiki/Transmission_Control_Protocol (Accessed 17 November 2026)
 Wikimedia (2026) History of the internet. Available at: https://en.wikipedia.org/wiki/History_of_the_Internet (Accessed 22 November 2026). 
 Wikimedia (2026) World Wide Web. Available at: https://en.wikipedia.org/wiki/World_Wide_Web (Accessed 22 November 2026).
 
