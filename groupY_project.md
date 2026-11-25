@@ -199,7 +199,7 @@ Li, C., Ning, G., Xia, Y., Guo, K. and Liu, Q. (2022) Does the Internet Bring Pe
 
 
 
-# Ethical Reflection and Improvements
+## Ethical Reflection and Improvements
 
 
 
@@ -214,7 +214,7 @@ Li, C., Ning, G., Xia, Y., Guo, K. and Liu, Q. (2022) Does the Internet Bring Pe
 
 
 
-# Conclusion
+## Conclusion
 
 The internet has transformed from ARPANET to a global tool used by everyone across the globe. It has shaped our modern society by changing how we communicate, access information, educate, and socialize. It went from an experiment invented by the military in 1969 to what it is today because of key figures such as Licklider, Cerf, Khan, Berners-Lee. Inventions such as TCP/IP, DNS and the WWW also helped the internet become something that we now depend on daily. Looking at it from an engineering standpoint shows how it solved problems of connecting different systems, and the societal viewpoint shows how it reshaped human connection and culture. It also brought unwanted consequences such as overdependence on technology and the risk of losing real world interactions. In the future a big challenge society will have to eventually face is finding a balance in how much we should be relying on the internet to be able to function. Overall the internet is one of the most important creations and has helped rapidly speed up the rate society has advanced but it has also come with side effects worth questioning
 
