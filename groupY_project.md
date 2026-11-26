@@ -187,9 +187,11 @@ The internet has undergone some key changes in relation to ethics to improve the
 
 The foundation of internet laws would be to combat against fraud with the Computer Fruad and Abuse Act in 1986 which created federal laws against hacking (unathorised used of a computing device). 
 The EU would instate the EU Protection Directive in 1995 to introduce laws for personal data protection and privacy as well as user consent.
-In 1996 many different laws were passed to make indecent actions punishable by law for example the Communications Decency Act (CDA) which targeted the posting of content deemed indecent or offense and the Child Pornography Prevention Act which would extend current laws against child pornography to the Internet.
+(Jaz, 2026)
 
-In relation to entertainment and media in 1998 the Digital Millennium Copyright Act (DMCA) would be passed in America penalising individuals or groups that reproduce, distribute, upload or share copyrighted content.
+In 1996 many different laws were passed to make indecent actions punishable by law for example the Communications Decency Act (CDA) which targeted the posting of content deemed indecent or offense and the Child Pornography Prevention Act which would extend current laws against child pornography to the Internet.(National Coalition Against Censorship, 2019)
+
+In relation to entertainment and media in 1998 the Digital Millennium Copyright Act (DMCA) would be passed in America penalising individuals or groups that reproduce, distribute, upload or share copyrighted content.(Copyright.gov, 2022)
 
 In the early 2000s, laws were introducted to crack down on excessive advertising through the use of user data, for example cookies. In 2002 the EU ePrivacy Directive Act was passed to regulate advertisment online as well as requiring "cookies" (data created by a website to store your user data) to have some level of transparancy.
 
@@ -248,3 +250,10 @@ National Science and Media Museum. (2020). A short history of the internet. [onl
 IEEE Communications Society. (2022). Mosaic web browser | IEEE communications society. [online] Available at: https://www.comsoc.org/node/20056 [Last Accessed 26 Nov. 2026].
 
 Wright, G. (2021). ARPANET. [online] TechTarget. Available at: https://www.techtarget.com/news/ARPANET/861948/ [Last Accessed 26 Nov. 2026].
+
+## Ethical Reflection and Improvements - Sources
+Jaz (2026). PrivacyEngine. [online] PrivacyEngine Data Protection Software and Solutions. Available at: https://www.privacyengine.io/blog/gdpr-10-year-anniversary-history-impact-future/ [Accessed 26 Nov. 2026].
+
+National Coalition Against Censorship (2019). A selective timeline of the internet and censorship - national coalition against censorship. [online] National Coalition Against Censorship. Available at: https://ncac.org/resource/a-selective-timeline-of-the-internet-and-censorship [Accessed 26 Nov. 2026].
+
+Copyright.gov (2022). The digital millennium copyright act | U.S. copyright office. [online] www.copyright.gov. Available at: https://www.copyright.gov/dmca/ [Accessed 26 Nov. 2026].
