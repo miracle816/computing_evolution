@@ -194,17 +194,12 @@ The Internet has completely changed human connection and culture. Instead of onl
 Another major shift in society caused by the internet is how culture created and shared. Before the internet cultural trends were mostly dictated by local communities or large media companies. Today platforms like youtube tiktok etc, allow anybody to share their art and ideas music globally. While this has made culture more accessible it has also created online communities where only people with the exact same views socialise.
 
 ## Ethical Reflection and Improvements
+The internet has undergone some key changes in relation to ethics and accessibility first looking at ethics.
 
+Ethics: The foundation of internet laws would be to combat against fraud with the Computer Fruad and Abuse Act in 1986 which created federal laws against hacking (unathorised used of a computing device). 
+The EU would instate the EU Protection Directive in 1995 to introduce laws for personal data protection and privacy as well as user consent.
 
 Accessibility: 
-
-
-
-
-
-
-
-
 
 
 
