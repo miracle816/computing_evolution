@@ -189,13 +189,13 @@ The foundation of internet laws would be to combat against fraud with the Comput
 The EU would instate the EU Protection Directive in 1995 to introduce laws for personal data protection and privacy as well as user consent.
 (Jaz, 2026)
 
-In 1996 many different laws were passed to make indecent actions punishable by law for example the Communications Decency Act (CDA) which targeted the posting of content deemed indecent or offense and the Child Pornography Prevention Act which would extend current laws against child pornography to the Internet.(National Coalition Against Censorship, 2019)
+In 1996 many different laws were passed to make indecent actions punishable by law ;or example, the Communications Decency Act (CDA) which targeted the posting of content deemed indecent or offense and the Child Pornography Prevention Act which would extend current laws against child pornography to the Internet.(National Coalition Against Censorship, 2019)
 
-In relation to entertainment and media in 1998 the Digital Millennium Copyright Act (DMCA) would be passed in America penalising individuals or groups that reproduce, distribute, upload or share copyrighted content.(Copyright.gov, 2022)
+In relation to entertainment and media in 1998 the Digital Millennium Copyright Act (DMCA) would be passed in America ,penalising individuals or groups that reproduce, distribute, upload or share copyrighted content.(Copyright.gov, 2022)
 
-In the early 2000s, laws were introducted to crack down on excessive advertising through the use of user data, for example cookies. In 2002 the EU ePrivacy Directive Act was passed to regulate advertisment online as well as requiring "cookies" (data created by a website to store your user data) to have some level of transparancy.
+In the early 2000s, laws were introduced to crack down on excessive advertising through the use of user data, for example cookies. In 2002, the EU ePrivacy Directive Act was passed to regulate advertising online as well as requiring "cookies" (data created by a website to store your user data) to have some level of transparancy.
 
-In 2016 the EU General Data Protection Regulation (GDPR) was created and later enforced in 2018. It aimed to tackle issues like a lack of transparent opt in/opt out options as well as enforcing user privacy heavily with fines attached to any law violated.
+In 2016 the EU General Data Protection Regulation (GDPR) was created and later enforced in 2018. It aimed to tackle issues like a lack of transparent opt in/opt out options ,as well as enforcing user privacy heavily with fines attached to any law violated.
 
 In recent times laws against AI are emerging, for example the  EU Artificial Intelligence Act requiring transparency in the use of generative AI and/or deepfakes.
 
