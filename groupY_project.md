@@ -232,7 +232,6 @@ Wikimedia (2026) World Wide Web. Available at: https://en.wikipedia.org/wiki/Wor
 ### Societal viewpoint - references
 Chao Li, Guangjie Ning, Yuxin Xia, Kaiyi Guo, Qianqian Liu(2022) 'Does the Internet Bring People Closer Together or Further Apart? The Impact of Internet Usage on Interpersonal Communications', Behavioral Sciences, 12(11), p. 425. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9687672/ (Accessed 1 November 2026).
 
-<<<<<<< HEAD
 ### Major Milestones - references
 www.computinghistory.org.uk. (n.d.). First network email sent by Ray Tomlinson - event - computing history. [online] Available at: https://www.computinghistory.org.uk/det/6116/First-e-mail-sent-by-Ray-Tomlinson/ [Last Accessed 26 Nov. 2026]
 
@@ -249,6 +248,3 @@ National Science and Media Museum. (2020). A short history of the internet. [onl
 IEEE Communications Society. (2022). Mosaic web browser | IEEE communications society. [online] Available at: https://www.comsoc.org/node/20056 [Last Accessed 26 Nov. 2026].
 
 Wright, G. (2021). ARPANET. [online] TechTarget. Available at: https://www.techtarget.com/news/ARPANET/861948/ [Last Accessed 26 Nov. 2026].
-=======
-
->>>>>>> fc43ecffea463bb3c6f3317b032f4ceb0ea6abc9
