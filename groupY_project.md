@@ -116,19 +116,19 @@ Leonard Kleinrock is an American Computer scientist who contributed to the techn
 
 
 ## Major Milestones S.
- In 2009 4g would be rolledn out allowing for an increase in download speed from cell towers.
-
 (1969)
 ARPA(Advancements Research Projects Agency)was given the green light in the development of the Apernet, a system that aimed to link different individual computers to each other. The project was directed by Robert Taylor and managed by Lawrence Roberts. It was within this year that Interface Message Proccesors(IMPS) where built to connect individual PCs together.
+(Greenwoodhigh, 2026)
 
 (1971)
-The first ever email was sent by Ray Tomlinson who had a hand in the development of the Apernet specifically in the communication side as by combining CPYNET(short for copy network) and SNDMSG (short for send message) and READMAIL to create a program that allowed PCs to send messages to each other which is now known as an email. The email itself was didn't have anything meaningful behind it according to Tomlinson stating it was "something like QWERTYUIOP."
+The first ever email was sent by Ray Tomlinson who had a hand in the development of the Apernet specifically in the communication side as by combining CPYNET(short for copy network) and SNDMSG (short for send message) and READMAIL to create a program that allowed PCs to send messages to each other which is now known as an email. The email itself was didn't have anything meaningful behind it according to Tomlinson stating it was "something like QWERTYUIOP."                    (lemelson.mit.edu, n.d.)
 
 (1974)
 Computer scientists Bobby Kahn and Vincent Cerf created TCP/IP (transmission-control protocol) which allowed for computing systems to speak the same language.
 
 (1983)
 This is when the Aprnet incorparated TCP/IP into its system  allowing it to feel and become more interconnected. In the same year Paul Mockapetris introducted DNS {Domain Name System} which made IP addresses which are noted down as numbers into a simplier form like .com, .org, .ie ect.
+(Team, 2025)
 
 (1989)
 Tim Berners-Lee created the World Wide Web(www) while working in CERN , creating HTML, HTTP and URLs to like documents worldwide arguing it would help scientists communicate and share documents faster.
@@ -138,9 +138,11 @@ The Apranet was decommissioned as it was found as absolete as newer networks lik
 
 (1991)
 CERN launched the World Wide Web to the world in two versions, the original created for NeXT machines which was more powerful than the latter, the "line mode" browser which was easy to install but sacrificed power for a more user friendly experience. As well as this internet service providers began to arise.
+(announced the WWW software on Internet newsgroups, 2018)
 
 (1993)
 Marc Andreessen and Eric Bina would create the Mosaic Browser which would allow for visuals like images and pictures to be uploaded in color receiving over 40,000 user downloads on its release on November.
+(National Science and Media Museum, 2020)
 
 (1995)
 The US ended it direct funding of the Internet allowing for the opportunity for commercial backers and networks to emerge.
@@ -181,18 +183,27 @@ The Internet has completely changed human connection and culture. Instead of onl
 Another major shift in society caused by the internet is how culture created and shared. Before the internet cultural trends were mostly dictated by local communities or large media companies. Today platforms like youtube tiktok etc, allow anybody to share their art and ideas music globally. While this has made culture more accessible it has also created online communities where only people with the exact same views socialise.
 
 ## Ethical Reflection and Improvements
-The internet has undergone some key changes in relation to ethics and accessibility first looking at ethics.
+The internet has undergone some key changes in relation to ethics to improve the user experience and creating a safer space for its users.
 
-Ethics: The foundation of internet laws would be to combat against fraud with the Computer Fruad and Abuse Act in 1986 which created federal laws against hacking (unathorised used of a computing device). 
+The foundation of internet laws would be to combat against fraud with the Computer Fruad and Abuse Act in 1986 which created federal laws against hacking (unathorised used of a computing device). 
 The EU would instate the EU Protection Directive in 1995 to introduce laws for personal data protection and privacy as well as user consent.
+In 1996 many different laws were passed to make indecent actions punishable by law for example the Communications Decency Act (CDA) which targeted the posting of content deemed indecent or offense and the Child Pornography Prevention Act which would extend current laws against child pornography to the Internet.
 
-Accessibility: 
+In relation to entertainment and media in 1998 the Digital Millennium Copyright Act (DMCA) would be passed in America penalising individuals or groups that reproduce, distribute, upload or share copyrighted content.
+
+In the early 2000s, laws were introducted to crack down on excessive advertising through the use of user data, for example cookies. In 2002 the EU ePrivacy Directive Act was passed to regulate advertisment online as well as requiring "cookies" (data created by a website to store your user data) to have some level of transparancy.
+
+In 2016 the EU General Data Protection Regulation (GDPR) was created and later enforced in 2018. It aimed to tackle issues like a lack of transparent opt in/opt out options as well as enforcing user privacy heavily with fines attached to any law violated.
+
+In recent times laws against AI are emerging, for example the  EU Artificial Intelligence Act requiring transparency in the use of generative AI and/or deepfakes.
+
+To summarise the Internet underwent many improvements in regards to ethics to make the Internet a relatively safe place without stifling freedom of speech as well as instating laws to protect users from individuals/groups with malicous intent.
 
 
 
 ## Conclusion
 
-The internet has transformed from ARPANET to a global tool used by everyone across the globe. It has shaped our modern society by changing how we communicate, access information, educate, and socialize. It went from an experiment invented by the military in 1969 to what it is today because of key figures such as Licklider, Cerf, Khan, Berners-Lee. Inventions such as TCP/IP, DNS and the WWW also helped the internet become something that we now depend on daily. Looking at it from an engineering standpoint shows how it solved problems of connecting different systems, and the societal viewpoint shows how it reshaped human connection and culture. It also brought unwanted consequences such as overdependence on technology and the risk of losing real world interactions. In the future a big challenge society will have to eventually face is finding a balance in how much we should be relying on the internet to be able to function. Overall the internet is one of the most important creations and has helped rapidly speed up the rate society has advanced but it has also come with side effects worth questioning
+The internet has transformed from ARPANET to a global tool used by everyone across the globe. It has shaped our modern society by changing how we communicate, access information, educate, and socialize. It went from an experiment invented by the military in 1969 to what it is today because of key figures such as Licklider, Cerf, Khan, Berners-Lee. Inventions such as TCP/IP, DNS and the WWW also helped the internet become something that we now depend on daily. Looking at it from an engineering standpoint shows how it solved problems of connecting different systems, and the societal viewpoint shows how it reshaped human connection and culture. It also brought unwanted consequences such as overdependence on technology and the risk of losing real world interactions. In the future a big challenge society will have to eventually face is finding a balance in how much we should be relying on the internet to be able to function. Overall the internet is one of the most important creations and has helped rapidly speed up the rate society has advanced but it has also come with side effects worth questioning.
 
 ## References
 
@@ -209,3 +220,19 @@ Wikimedia (2026) World Wide Web. Available at: https://en.wikipedia.org/wiki/Wor
 ### Societal viewpoint - references
 Chao Li, Guangjie Ning, Yuxin Xia, Kaiyi Guo, Qianqian Liu(2022) 'Does the Internet Bring People Closer Together or Further Apart? The Impact of Internet Usage on Interpersonal Communications', Behavioral Sciences, 12(11), p. 425. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9687672/ (Accessed 1 November 2026).
 
+### Major Milestones - references
+www.computinghistory.org.uk. (n.d.). First network email sent by Ray Tomlinson - event - computing history. [online] Available at: https://www.computinghistory.org.uk/det/6116/First-e-mail-sent-by-Ray-Tomlinson/ [Last Accessed 26 Nov. 2026]
+
+lemelson.mit.edu. (n.d.). Ray Tomlinson | Lemelson. [online] Available at: https://lemelson.mit.edu/resources/ray-tomlinson [Last Accessed 26 Nov. 2026].
+
+Greenwoodhigh. (2026). Greenwood High. [online] Available at: https://greenwoodhigh.edu.in/ [Last Accessed 26 Nov. 2026].
+
+Team, J.S. (2025). Timeline of internet milestones: Key events and developments - JMC study hub. [online] JMC Study Hub. Available at: https://jmcstudyhub.com/timeline-of-internet-milestones-key-events-and-developments/ [Last Accessed 26 Nov. 2026].
+
+announced the WWW software on Internet newsgroups (2018). A short history of the web – home | CERN. [online] Home.cern. Available at: https://home.cern/science/computing/the-birth-of-the-web/short-history-web/ [Last Accessed 26 Nov. 2026].
+
+National Science and Media Museum. (2020). A short history of the internet. [online] Available at: https://www.scienceandmediamuseum.org.uk/objects-and-stories/short-history-internet [Last Accessed 26 Nov. 2026].
+
+IEEE Communications Society. (2022). Mosaic web browser | IEEE communications society. [online] Available at: https://www.comsoc.org/node/20056 [Last Accessed 26 Nov. 2026].
+
+Wright, G. (2021). ARPANET. [online] TechTarget. Available at: https://www.techtarget.com/news/ARPANET/861948/ [Last Accessed 26 Nov. 2026].
