@@ -195,6 +195,18 @@ Accessibility:
 The internet has transformed from ARPANET to a global tool used by everyone across the globe. It has shaped our modern society by changing how we communicate, access information, educate, and socialize. It went from an experiment invented by the military in 1969 to what it is today because of key figures such as Licklider, Cerf, Khan, Berners-Lee. Inventions such as TCP/IP, DNS and the WWW also helped the internet become something that we now depend on daily. Looking at it from an engineering standpoint shows how it solved problems of connecting different systems, and the societal viewpoint shows how it reshaped human connection and culture. It also brought unwanted consequences such as overdependence on technology and the risk of losing real world interactions. In the future a big challenge society will have to eventually face is finding a balance in how much we should be relying on the internet to be able to function. Overall the internet is one of the most important creations and has helped rapidly speed up the rate society has advanced but it has also come with side effects worth questioning
 
 ## References
+### Thesis statement - references
+TechEngage (2026) ‘The Complete History of the Internet: From ARPANET to AI (Visual Timeline)’. Available at: https://techengage.com/history-of-internet/   GeeksforGeeks (2025) ‘Internet Origin: History of Internet Invention from ARPANET to Modern Web’. Available at: https://www.geeksforgeeks.org/websites-apps/history-of-internet/  
+GeeksforGeeks (2023) ‘History of Web Browsers’. Available at: https://www.geeksforgeeks.org/websites-apps/history-of-web-browsers/ 
+
+### Key figures - references
+Encyclopaedia Britannica (n.d.) ‘Who were key people involved with the creation of the Internet?’ Available at: https://www.britannica.com/question/Who-were-key-people-involved-with-the-creation-of-the-Internet  
+Encyclopaedia Britannica (n.d.) ‘J.C.R. Licklider’. Available at: https://www.britannica.com/biography/J-C-R-Licklider 
+Encyclopaedia Britannica (n.d.) ‘Vint Cerf’. Available at: https://www.britannica.com/search?query=vint+cerf
+Encyclopaedia Britannica (n.d.) ‘Robert Elliot Kahn’. Available at: https://www.britannica.com/biography/Robert-Elliot-Kahn  
+Encyclopaedia Britannica (n.d.) ‘Tim Berners-Lee’. Available at: https://www.britannica.com/biography/Tim-Berners-Lee  
+Encyclopaedia Britannica (n.d.) ‘Leonard Kleinrock’. Available at: https://www.britannica.com/biography/Leonard-Kleinrock 
+Wikipedia (n.d.) ‘Packet switching’. Available at: https://en.wikipedia.org/wiki/Packet_switching  
 
 ### Engineering viewpoint -references
 TU Delft (2021) Engineering the evolution of the internet. Available at: https://www.tudelft.nl/en/stories/articles/engineering-the-evolution-of-the-internet (Accessed: 30 October 2026 ).
@@ -208,4 +220,5 @@ Wikimedia (2026) World Wide Web. Available at: https://en.wikipedia.org/wiki/Wor
 
 ### Societal viewpoint - references
 Chao Li, Guangjie Ning, Yuxin Xia, Kaiyi Guo, Qianqian Liu(2022) 'Does the Internet Bring People Closer Together or Further Apart? The Impact of Internet Usage on Interpersonal Communications', Behavioral Sciences, 12(11), p. 425. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9687672/ (Accessed 1 November 2026).
+
 
