@@ -208,9 +208,22 @@ To summarise the Internet underwent many improvements in regards to ethics to ma
 The internet has transformed from ARPANET to a global tool used by everyone across the globe. It has shaped our modern society by changing how we communicate, access information, educate, and socialize. It went from an experiment invented by the military in 1969 to what it is today because of key figures such as Licklider, Cerf, Khan, Berners-Lee. Inventions such as TCP/IP, DNS and the WWW also helped the internet become something that we now depend on daily. Looking at it from an engineering standpoint shows how it solved problems of connecting different systems, and the societal viewpoint shows how it reshaped human connection and culture. It also brought unwanted consequences such as overdependence on technology and the risk of losing real world interactions. In the future a big challenge society will have to eventually face is finding a balance in how much we should be relying on the internet to be able to function. Overall the internet is one of the most important creations and has helped rapidly speed up the rate society has advanced but it has also come with side effects worth questioning.
 
 ## References
+
+###Context – References
+GeeksforGeeks (2025) ‘Internet Origin: History of Internet Invention from ARPANET to Modern Web’. Available at: https://www.geeksforgeeks.org/websites-apps/history-of-internet/
+TechEngage (2026) ‘The Complete History of the Internet: From ARPANET to AI (Visual Timeline)’. Available at: https://techengage.com/history-of-internet/
+Wright, G. (2021) ‘ARPANET’. TechTarget. Available at: https://www.techtarget.com/news/ARPANET/861948/ (Accessed: 26 November 2026).
+CERN (2018) ‘A short history of the web’. Available at: https://home.cern/science/computing/the-birth-of-the-web/short-history-web/ (Accessed: 26 November 2026).
 ### Thesis statement - references
 TechEngage (2026) ‘The Complete History of the Internet: From ARPANET to AI (Visual Timeline)’. Available at: https://techengage.com/history-of-internet/   GeeksforGeeks (2025) ‘Internet Origin: History of Internet Invention from ARPANET to Modern Web’. Available at: https://www.geeksforgeeks.org/websites-apps/history-of-internet/  
 GeeksforGeeks (2023) ‘History of Web Browsers’. Available at: https://www.geeksforgeeks.org/websites-apps/history-of-web-browsers/ 
+
+###Timeline – References
+Computing History (n.d.) ‘First network email sent by Ray Tomlinson’. Available at: https://www.computinghistory.org.uk/det/6116/First-e-mail-sent-by-Ray-Tomlinson/ (Accessed: 26 November 2026).
+Lemelson-MIT (n.d.) ‘Ray Tomlinson’. Available at: https://lemelson.mit.edu/resources/ray-tomlinson (Accessed: 26 November 2026).
+IEEE Communications Society (2022) ‘Mosaic web browser’. Available at: https://www.comsoc.org/node/20056 (Accessed: 26 November 2026).
+National Science and Media Museum (2020) ‘A short history of the internet’. Available at: https://www.scienceandmediamuseum.org.uk/objects-and-stories/short-history-internet (Accessed: 26 November 2026).
+Team, J.S. (2025) ‘Timeline of internet milestones: Key events and developments’. JMC Study Hub. Available at: https://jmcstudyhub.com/timeline-of-internet-milestones-key-events-and-developments/ (Accessed: 26 November 2026).
 
 ### Key figures - references
 Encyclopaedia Britannica (n.d.) ‘Who were key people involved with the creation of the Internet?’ Available at: https://www.britannica.com/question/Who-were-key-people-involved-with-the-creation-of-the-Internet  
