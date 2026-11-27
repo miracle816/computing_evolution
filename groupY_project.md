@@ -209,7 +209,7 @@ The internet has transformed from ARPANET to a global tool used by everyone acro
 
 ## References
 
-###Context – References
+### Context – References
 GeeksforGeeks (2025) ‘Internet Origin: History of Internet Invention from ARPANET to Modern Web’. Available at: https://www.geeksforgeeks.org/websites-apps/history-of-internet/
 TechEngage (2026) ‘The Complete History of the Internet: From ARPANET to AI (Visual Timeline)’. Available at: https://techengage.com/history-of-internet/
 Wright, G. (2021) ‘ARPANET’. TechTarget. Available at: https://www.techtarget.com/news/ARPANET/861948/ (Accessed: 26 November 2026).
@@ -218,7 +218,7 @@ CERN (2018) ‘A short history of the web’. Available at: https://home.cern/sc
 TechEngage (2026) ‘The Complete History of the Internet: From ARPANET to AI (Visual Timeline)’. Available at: https://techengage.com/history-of-internet/   GeeksforGeeks (2025) ‘Internet Origin: History of Internet Invention from ARPANET to Modern Web’. Available at: https://www.geeksforgeeks.org/websites-apps/history-of-internet/  
 GeeksforGeeks (2023) ‘History of Web Browsers’. Available at: https://www.geeksforgeeks.org/websites-apps/history-of-web-browsers/ 
 
-###Timeline – References
+### Timeline – References
 Computing History (n.d.) ‘First network email sent by Ray Tomlinson’. Available at: https://www.computinghistory.org.uk/det/6116/First-e-mail-sent-by-Ray-Tomlinson/ (Accessed: 26 November 2026).
 Lemelson-MIT (n.d.) ‘Ray Tomlinson’. Available at: https://lemelson.mit.edu/resources/ray-tomlinson (Accessed: 26 November 2026).
 IEEE Communications Society (2022) ‘Mosaic web browser’. Available at: https://www.comsoc.org/node/20056 (Accessed: 26 November 2026).
